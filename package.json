@@ -4,10 +4,9 @@
   "version": "1.2.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/build-static.mjs",
     "preview": "vite preview",
-    "prebuild": "node scripts/generate-seo.mjs",
-    "postbuild": "node scripts/copy-static-seo.mjs"
+    "prebuild": "node scripts/generate-seo.mjs"
   },
   "devDependencies": {
     "vite": "^7.1.5"
