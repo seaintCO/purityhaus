@@ -1,0 +1,19 @@
+# Purity Haus
+
+Purity Haus is Susan’s elevated salon experience in Middle Tennessee, centered on personalized healthy-hair care, beauty, confidence and one-on-one attention.
+
+## Primary pages
+- / — Purity Haus salon overview and booking
+- /services.html — salon service categories and Vagaro booking
+- /susan.html — Susan, founder and stylist
+- /purity-of-hearts.html — one-on-one coaching for individuals and business owners
+- /contact.html — booking and contact options
+
+## Authoritative external links
+- Booking: https://www.vagaro.com/purityhaus
+- Instagram: https://www.instagram.com/purityhaus/
+
+## Key facts
+- Salon appointments are completed through Vagaro.
+- Live service names, prices, durations and availability are maintained on Vagaro.
+- Purity of Hearts is Susan’s one-on-one coaching service for individuals and business owners.

@@ -1,0 +1,17 @@
+{
+  "name": "Purity Haus",
+  "short_name": "Purity Haus",
+  "description": "Beauty \u2022 Confidence \u2022 Community",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#11110f",
+  "icons": [
+    {
+      "src": "/assets/purity-logo-transparent.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

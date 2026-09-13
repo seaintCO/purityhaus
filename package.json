@@ -1,0 +1,15 @@
+{
+  "name": "purity-haus-website",
+  "private": true,
+  "version": "1.2.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "prebuild": "node scripts/generate-seo.mjs",
+    "postbuild": "node scripts/copy-static-seo.mjs"
+  },
+  "devDependencies": {
+    "vite": "^7.1.5"
+  }
+}

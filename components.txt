@@ -1,0 +1,3 @@
+BOOKING_URL=https://www.vagaro.com/purityhaus
+INSTAGRAM_URL=https://www.instagram.com/purityhaus/
+INSTAGRAM_HANDLE=@purityhaus

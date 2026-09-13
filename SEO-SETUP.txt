@@ -1,0 +1,24 @@
+PURITY HAUS SEO / AEO SETUP
+
+Included:
+- Unique page titles + descriptions
+- Canonical URLs (domain-relative)
+- Open Graph + Twitter social previews
+- HairSalon/LocalBusiness structured data
+- Person schema for Susan
+- FAQ structured data + visible FAQs
+- Breadcrumb structured data
+- Search-friendly semantic copy
+- robots.txt
+- llms.txt for AI/answer-engine context
+- web app manifest
+- multi-page Vite production build
+- automatic sitemap generation when SITE_URL is configured
+
+VERCEL:
+Add an Environment Variable named SITE_URL with the final public origin, for example:
+https://www.yourdomain.com
+
+Then redeploy. npm run build will create sitemap.xml and add it to robots.txt.
+
+Do not add an address, phone number, hours, reviews, credentials, or service pricing to structured data unless they are accurate and publicly confirmed.

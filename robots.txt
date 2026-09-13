@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Set SITE_URL in Vercel to generate the production sitemap automatically.
